@@ -8,3 +8,5 @@ Code References:
 3. BERT official documents and colab notebooks
 4. BERT colab notebooks from PyTorch
 5. BabelNet offical documents
+
+Subject to the size of training data, they are not uploaded here. Please check SemEval-2020 Task 4 for the set of training and test data.
